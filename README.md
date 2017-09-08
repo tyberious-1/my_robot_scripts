@@ -1,2 +1,2 @@
 # my_robot_scripts
-Scripts that I am creating to work with different robots.
+Scripts that I am modifiying or creating to work with ROS robots.
